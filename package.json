@@ -1,0 +1,22 @@
+{
+  "name": "solid-tools",
+  "author": "Amir Arab",
+  "license": "MIT",
+  "version": "0.1.0",
+  "description": "Collection of tools for developing web application with SolidJS",
+  "homepage": "https://github.com/amir4rab/solid-tools",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amir4rab/solid-tools.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "Solid JS",
+    "TypeScript",
+    "Component Library",
+    "Utilities"
+  ],
+  "contributors": [
+    "Amir Arab"
+  ]
+}
